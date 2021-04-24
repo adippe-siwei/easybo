@@ -1,0 +1,67 @@
+<?php
+
+return [
+    'search' => "Recherche",
+
+    'menuHome' => "Accueil",
+    'menuDeveloper' => "Développeur",
+    'menuAdmin' => "Admin",
+    'menuLogOut' => "Déconnexion",
+    'menuMessaging' => "Messages",
+    'menuSettings' => "Configuration",
+    'menuUsers' => "Utilisateurs",
+    'menuRoles' => "Roles",
+
+    'breadcrumbHome' => "Accueil",
+    'breadcrumbUsers' => "Gestion des utilisateurs",
+    'breadcrumbUserEdit' => "Modification de l'utilisateur",
+    'breadcrumbUserCreate' => "Création d'un utilisateur",
+    'breadcrumbRoles' => "Gestion des roles",
+    'breadcrumbRolesEdit' => "Modification du role",
+
+    'lblUserName' => "Nom",
+    'lblUserFirstName' => "Prénom",
+    'lblUserLastName' => "Nom de famille",
+    'lblUserEmail' => "Email",
+    'lblUserPassword' => "Mot de passe",
+    'lblUserRoles' => "Roles",
+    'lblUserLastConnectAt' => "Dernière connexion",
+    'lblPermissionRead' => "Lecture",
+    'lblPermissionEdit' => "Modification",
+    'lblPermissionDelete' => "Suppression",
+    'lblRoleName' => "Nom du role",
+    'lblRolePermissionsCount' => "Nombre de permissions",
+    'lblCreatedAt' => "Créé le",
+
+    'toolTipsEdit' => "Modification",
+    'toolTipsCreateUser' => "Ajouter un nouvel utilisateur",
+    'toolTipsSave' => "Enregistrer les modifications",
+    'toolTipsCancel' => "Annuler les modifications et retourner à la liste",
+    'toolTipsDelete' => "Supprimer cet utilisateur",
+
+    'btnSave' => "Enregistrer",
+    'btnCancel' => "Annuler",
+    'btnNew' => "Ajouter",
+    'btnInitPassword' => "Changer le mot de passe",
+    'btnRandom' => "Aléatoire",
+    'btnDelete' => "Suppression",
+    'btnBack' => "Retour à la liste",
+    'btnOk' => "Ok",
+
+    'messageUserUpdated' => "L'utilisateur à été mis à jour",
+    'messageUserCreated' => "L'utilisateur à été créé",
+    'messageNoConnection' => "Aucune connexion",
+    'messageUserPassword' => "Le mot de passe à été changé",
+    'messageUserDeleted' => "L'utilisateur à été supprimé",
+    'messageRoleDeleted' => "Le role à été supprimé",
+    'messageRoleUpdated' => "Le role à été mis à jour",
+    'messageRoleCreated' => "Le role à été créé",
+
+    'titlePermissionOnUser' => "Permissions de l'utilisateur",
+    'titleCreateRole' => "Création d'un role",
+    'titleUserHavingRole' => "Utilisateurs possédant ce role",
+
+    'permName-billing' => "Facturation",
+    'permName-sales' => "Ventes",
+    'permName-users' => "Utilisateurs",
+];

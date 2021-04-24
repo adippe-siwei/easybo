@@ -1,0 +1,9 @@
+let jsConfirmMessage = "Are you sure?";
+let jsConfirmYes = "Yes";
+let jsConfirmNo = "No";
+let dataTableTranslate = "http://live.bo.mercier.siwei.fr/i18n/dataTable_EN.json";
+let multiSelectNonSelectedText = "Select";
+let multiSelectNSelectedText = "More than 4 elements selected";
+let multiSelectAllSelectedText = "All elements selected";
+let alertRefFieldsMandatory = "Fields marked in red are required";
+let summernoteLang = "en-US";

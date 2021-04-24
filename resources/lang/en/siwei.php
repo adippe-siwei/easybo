@@ -1,0 +1,67 @@
+<?php
+
+return [
+    'search' => "Search",
+
+    'menuHome' => "Home",
+    'menuDeveloper' => "Developer",
+    'menuAdmin' => "Admin",
+    'menuLogOut' => "Log out",
+    'menuMessaging' => "Messages",
+    'menuSettings' => "Settings",
+    'menuUsers' => "Users",
+    'menuRoles' => "Roles",
+
+    'breadcrumbHome' => "Home",
+    'breadcrumbUsers' => "Users management",
+    'breadcrumbUserEdit' => "Updating the user",
+    'breadcrumbUserCreate' => "Create new user",
+    'breadcrumbRoles' => "Roles management",
+    'breadcrumbRolesEdit' => "Updating role",
+
+    'lblUserName' => "Name",
+    'lblUserFirstName' => "First name",
+    'lblUserLastName' => "Last name",
+    'lblUserEmail' => "Email",
+    'lblUserPassword' => "Password",
+    'lblUserRoles' => "Roles",
+    'lblUserLastConnectAt' => "Last connected",
+    'lblPermissionRead' => "Read",
+    'lblPermissionEdit' => "Edit",
+    'lblPermissionDelete' => "Delete",
+    'lblRoleName' => "Role name",
+    'lblRolePermissionsCount' => "Permissions count",
+    'lblCreatedAt' => "Created At",
+
+    'toolTipsEdit' => "Edit",
+    'toolTipsCreateUser' => "Add new user",
+    'toolTipsSave' => "Save changes",
+    'toolTipsCancel' => "Cancel changes and go back to the list",
+    'toolTipsDelete' => "Delete this user",
+
+    'btnSave' => "Save",
+    'btnCancel' => "Cancel",
+    'btnNew' => "Add",
+    'btnInitPassword' => "Reset password",
+    'btnRandom' => "Random",
+    'btnDelete' => "Delete",
+    'btnBack' => "Back to the list",
+    'btnOk' => "Ok",
+
+    'messageUserUpdated' => "User was updated",
+    'messageUserCreated' => "User was created",
+    'messageNoConnection' => "No connection",
+    'messageUserPassword' => "Password was updated",
+    'messageUserDeleted' => "User was deleted",
+    'messageRoleDeleted' => "Role was deleted",
+    'messageRoleUpdated' => "Role was updated",
+    'messageRoleCreated' => "Role was created",
+
+    'titlePermissionOnUser' => "User permissions",
+    'titleCreateRole' => "Create a new role",
+    'titleUserHavingRole' => "Users with this role",
+
+    'permName-billing' => "Billing",
+    'permName-sales' => "Sales",
+    'permName-users' => "Users",
+];
